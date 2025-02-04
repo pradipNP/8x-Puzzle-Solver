@@ -15,7 +15,7 @@ No specific installation is required. Simply open the notebook in Google Colab o
 
 ## How to Run
 Clone this repository to your local machine:
-  git clone https://github.com/your-username/8-puzzle-AI.git
+  git clone https://github.com/pradipNP/8x-Puzzle-Solver.git
 
 ## Run the Notebook:
 You can run the 8-puzzle.ipynb file in Google Colab or any Jupyter Notebook environment.
