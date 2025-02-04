@@ -32,9 +32,9 @@ where _ represents the empty space, the goal is to rearrange the tiles using the
 After running the algorithms, the notebook will show how the puzzle is solved step-by-step with the moves displayed.
 
 ## Dependencies
-  ### Python 3.x
-  ### numpy
-  ### collections
+  ##### Python 3.x
+  ##### numpy
+  ##### collections
 
 ## Contributing
 If you’d like to contribute to this project, feel free to fork this repository, make changes, and create a pull request.
