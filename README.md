@@ -22,10 +22,10 @@ You can run the 8-puzzle.ipynb file in Google Colab or any Jupyter Notebook envi
 Follow the instructions in the notebook to solve the puzzle.
 
 ## Example
-For example, if the puzzle is:
-1 2 3
-4 5 6
-7 8 _
+### For example, if the puzzle is:
+  ### 1 2 3
+  ### 4 5 6
+  ### 7 8 _
 where _ represents the empty space, the goal is to rearrange the tiles using the allowed moves until the puzzle reaches the goal state.
 
 ## Results
